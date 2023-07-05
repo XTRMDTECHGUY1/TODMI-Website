@@ -7,7 +7,6 @@ Landpage
 
 Show the Code
 
-<!--- 
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,7 +134,12 @@ display: flex; justify-content: center; align-items: center; padding-top: 100px;
 </div></div>
 
 
-<!--- IN HIS PRESENCE ---
+
+
+
+
+
+<!--- IN HIS PRESENCE --->
 <section id="newpage" style="background-color: white;">
 <div class="container">
 	<div class="row">
@@ -166,7 +170,7 @@ class="img-fluid rounded mix-auto height= 250px" width= "900px">
 
 
 
-<!--- worship word & praise --
+<!--- worship word & praise --->
 <section style="background-image: url(images/kpi.png); height: 70vh; width: 100%; background-size: 100% 100%; background-position: center; ">
 	<br><br> <br>
 
@@ -198,7 +202,7 @@ class="img-fluid rounded mix-auto height= 250px" width= "900px">
 
 
 
-<!--- GET INVOLVED --
+<!--- GET INVOLVED --->
 <section style="background-color: white;" >
 
 	<br><br>
@@ -246,7 +250,7 @@ class="img-fluid rounded mix-auto height= 250px" width= "900px">
 
 
 
-<!--- born again ---
+<!--- born again --->
 <section class=" height: 100vh; width: 98.7.9vw" style="background-color:#030636">
 <br><br><br><br><br>
 
@@ -293,8 +297,11 @@ SEND</button></div></div></div>
 <script src="assets/js/script.js"> </script>
 <script src="assets/bootstrap/js/bootstrap.min.js">
 </script>
-<script src="assets/bootstrap4/js/script.min.js
-</body>
-</html>
+<script src="assets/bootstrap4/js/script.min.js">
 
-End.
+
+</body>
+
+
+</html>
+end.
